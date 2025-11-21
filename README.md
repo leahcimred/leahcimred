@@ -10,7 +10,7 @@ My work centers on modular applications, profile-aware configuration, and secure
 ## 🧭 What Guides Me
 I believe architecture should empower. Whether building platforms in diffrent languages (C#/Java) or designing audit-friendly CQRS flows, I strive for transparency, traceability, and composability. Every artifact is an opportunity to make onboarding easier and diagnostics sharper.
 ## 🔍 Quick Snapshot
-- 🔭 I’m currently working on a modular Spring Boot (Java 21+) platform, retrofitting entities for audit trails, and building async-ready orchestration layers.
+- 🔭 I’m currently working on a modular mix of .NET Core and Next.JS platform, retrofitting entities for audit trails, and building async-ready orchestration layers.
 - 🌱 I’m currently learning advanced temporal filtering strategies, edge-device diagnostics, and Raspberry Pi orchestration.
 - 👯 I’m looking to collaborate on diagnostics-first platforms, secure REST APIs, and event-driven systems with auditability.
 - 💬 Ask me about CQRS, Spring Boot diagnostics, async service orchestration, or cross-language maintainability.
@@ -39,6 +39,19 @@ CI/CD, SFTP, iText7, JWT, NextJS, TailwindCSS, XML, JSON
 
 ## 📚 Portfolio Highlights
 Here are a few recent projects (under NDA) that reflect my experience:
+
+##### Robotic Engineering Platform (2025 - ongoing)
+###### Senior Fullstack Developer (C# .NET Core 8, React)
+
+```
+  - Developed interfaces to frontend and third-party applications and libraries
+  - Developement with poly repo artifact achitecture
+  - Implemented gRPC communication between AGV and HMI with a Core middle layer inbetween
+  - Migrated databases and report generation (PDFs from HTML)
+  - Telemetry dashboard rendered graphs with ChartJS and Grids
+  - Developed algorithms for sensor and actor reading and control
+  - Conducted code reviews, tests, and documentation
+```
 
 ##### Swiss Pension Fund Platform (2022 - 2024, C-2-B)
 ###### Senior Fullstack Developer (C# .NET Core 6-8, React)
