@@ -51,6 +51,22 @@ Here are a few recent projects (under NDA) that reflect my experience:
   - Telemetry dashboard rendered graphs with ChartJS and Grids
   - Developed algorithms for sensor and actor reading and control
   - Conducted code reviews, tests, and documentation
+  - Implementation of self-made Code Pattern Tooling for easier code-readability and pipelining sync / async
+  - Building CI/CD Pipeline in Azure DevOps
+```
+
+##### Robotic Food Dispenser (2025 - ongoing)
+###### Senior Fullstack Developer (Python3, FastAPI, React, OPC UA)
+
+```
+  - Developed interfaces to frontend and third-party applications and libraries
+  - Implementation of self-made Idiom for easier code-readability
+  - Implementation of QR-Code generation and scanning
+  - Implementation WebSocket/Rest-API communication between Frontend and Backend steering the PLC-device over OPC UA
+  - Telemetry and separated user dashboard
+  - Integration of PLC-programmed maschine
+  - Conducted code reviews, tests, and documentation
+  - Building CI/CD Pipeline in Azure DevOps
 ```
 
 ##### Swiss Pension Fund Platform (2022 - 2024, C-2-B)
