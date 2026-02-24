@@ -41,7 +41,7 @@ CI/CD, SFTP, iText7, JWT, NextJS, TailwindCSS, XML, JSON
 Here are a few recent projects (under NDA) that reflect my experience:
 
 ##### Robotic Engineering Platform (2025 - ongoing)
-###### Senior Fullstack Developer (C# .NET Core 8, React)
+###### Senior Fullstack Developer (Rust, C# .NET Core 8, React)
 
 ```
   - Developed interfaces to frontend and third-party applications and libraries
